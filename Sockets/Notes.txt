@@ -1,0 +1,2 @@
+Use headers to inform the client how much data is should recieve from the server.
+    fixed length header
